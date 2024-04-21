@@ -182,13 +182,6 @@ dispatcher = Application.builder().token(TOKEN).build()
 function = dispatcher.add_handler
 # <=======================================================================================================>
 
-ubot2 = TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH)
-try:
-    ubot2.start()
-except BaseException:
-    print("Userbot Error! Have you added a STRING_SESSION in deploying??")
-    sys.exit(1)
-
 # <================================================ BOOT MESSAGE=======================================================>
 ALIVE_MSG = """
 💫 *MY SYSTEM IS STARTING, PLEASE WAIT FOR SOMETIME TO COMPLETE BOOT!*
