@@ -78,7 +78,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *Marin Kitigawa* 🫧 [ㅤ](https://telegra.ph/file/b05535884267a19ee5c93.jpg)
+🫧 *Marin Kitigawa* 🫧 [ㅤ](https://telegra.ph/file/283be4cb7aa3f75a1c294.jpg)
 
 ☉ *Here, you will find a list of all the available commands.*
 
