@@ -201,8 +201,12 @@ ALIVE_IMG = [
     "https://telegra.ph/file/107434c32dae37f05712e.jpg",
     "https://telegra.ph/file/8c8c6c881e48fcae3bf59.jpg",
     "https://telegra.ph/file/48cf12ee447b359320a21.jpg",
+    "https://telegra.ph/file/48cf12ee447b359320a21.jpg",
     "https://telegra.ph/file/651d1d6b921e77b754598.jpg",
     "https://telegra.ph/file/95058a3da1167aad02846.jpg",
+    "https://telegra.ph/file/67e4016560498beaadbc6.jpg",
+    "https://telegra.ph/file/95058a3da1167aad02846.jpg",
+    "https://telegra.ph/file/9a459f18449d9f2e9d8dd.jpg",
 ]
 # <=======================================================================================================>
 
@@ -236,7 +240,7 @@ loop.run_until_complete(
 
 # <=============================================== CLIENT SETUP ========================================================>
 # Create the Mikobot and TelegramClient instances
-app = Client("Mikobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
+app = Client("Marin", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 tbot = TelegramClient(MemorySession(), API_ID, API_HASH)
 # <=======================================================================================================>
 
