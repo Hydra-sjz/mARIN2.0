@@ -13,10 +13,12 @@ START_IMG = [
     "https://telegra.ph/file/107434c32dae37f05712e.jpg",
     "https://telegra.ph/file/8c8c6c881e48fcae3bf59.jpg",
     "https://telegra.ph/file/48cf12ee447b359320a21.jpg",
+    "https://telegra.ph/file/48cf12ee447b359320a21.jpg",
     "https://telegra.ph/file/651d1d6b921e77b754598.jpg",
     "https://telegra.ph/file/95058a3da1167aad02846.jpg",
     "https://telegra.ph/file/67e4016560498beaadbc6.jpg",
     "https://telegra.ph/file/95058a3da1167aad02846.jpg",
+    "https://telegra.ph/file/9a459f18449d9f2e9d8dd.jpg",
 ]
 
 HEY_IMG = "https://telegra.ph/file/67e4016560498beaadbc6.jpg"
@@ -28,7 +30,7 @@ ALIVE_ANIMATION = [
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
-PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
+PM_START_TEXT = "✨ *ᴋᴏɴɪᴄʜɪᴡᴀ, ɪ ᴀᴍ Mᴀʀɪɴ, ʜᴀᴊɪᴍᴇᴍᴀꜱʜɪᴛ. ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
 START_BTN = [
     [
