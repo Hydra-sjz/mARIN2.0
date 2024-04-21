@@ -26,7 +26,7 @@ async def get_palm_response(api_params):
 # Command handler for /palm
 @app.on_message(filters.text)
 async def palm_chatbot(client, message):
-    if not message.text.startswith("Miko"):
+    if not message.text.startswith("Marin"):
         return
         # your code here
     args = message.text.split(maxsplit=1)
